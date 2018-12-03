@@ -45,11 +45,29 @@ If you attempt to apply classical design patterns directly to JavaScript, you wi
 
 Enough, with this, now just jump through the files, in order and learn JavaScript.
 
-- index.html (Base html for linking the JavaScript files)
-- first.js (Formal starting with JavaScript)
-- second.js (Objects in JavaScript)
-- third.js (Functions in JavaScript)
-- fourth.js (Inheritance in JavaScript)
-- fifth.js (Arrays in JavaScript)
+- index.html 
+
+>Base html for linking the JavaScript files
+
+- [first.js](https://github.com/Pradyuman7/JavaScriptBestParts/blob/master/first.js) 
+
+>Formal starting with JavaScript
+
+- second.js 
+
+>Objects in JavaScript
+
+- third.js 
+
+>Functions in JavaScript
+
+- fourth.js 
+
+>Inheritance in JavaScript
+
+- fifth.js 
+
+>Arrays in JavaScript
+
 - Regular Expressions and Appendix
 
