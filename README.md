@@ -37,7 +37,7 @@ This can be alarming to people who are coming to JavaScript from strongly typed 
 
 On the other hand, I find loose typing to be liberating. I don’t need to form complex class hierarchies. And I never have to cast or wrestle with the type system to get the behavior that I want.
 
-JavaScript has a very powerful object literal notation. Objects can be created simply by listing their components. This notation was the inspiration for JSON, the popu- lar data interchange format. (There will be more about JSON in Appendix E.)
+JavaScript has a very powerful object literal notation. Objects can be created simply by listing their components. This notation was the inspiration for JSON, the popu- lar data interchange format.
 
 A controversial feature in JavaScript is prototypal inheritance. JavaScript has a class- free object system in which objects inherit properties directly from other objects. This is really powerful, but it is unfamiliar to classically trained programmers. 
 
