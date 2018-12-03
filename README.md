@@ -45,7 +45,7 @@ If you attempt to apply classical design patterns directly to JavaScript, you wi
 
 Enough, with this, now just jump through the files, in order and learn JavaScript.
 
-- index.html 
+- [index.html](https://github.com/Pradyuman7/JavaScriptBestParts/blob/master/index.html) 
 
 >Base html for linking the JavaScript files
 
