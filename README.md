@@ -53,7 +53,7 @@ Enough, with this, now just jump through the files, in order and learn JavaScrip
 
 >Formal starting with JavaScript
 
-- second.js 
+- [second.js](https://github.com/Pradyuman7/JavaScriptBestParts/blob/master/second.js) 
 
 >Objects in JavaScript
 
