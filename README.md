@@ -1,4 +1,4 @@
-# JavaScript: The Best Parts
+# JavaScript: The Best Parts (Crash Course)
 
 **Everything you need to know about JavaScript, from the book, JavaScript: The Good Parts**
 
